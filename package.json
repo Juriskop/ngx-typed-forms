@@ -1,0 +1,32 @@
+{
+  "name": "@juriskop/ngx-form-types",
+  "version": "1.0.0",
+  "description": "Utility types for Angular's typed forms. Take any normal type and convert it to the correct type for a typed form.",
+  "main": "index.ts",
+  "scripts": {
+    "build": "sh ./build.sh",
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juriskop/ngx-typed-forms.git"
+  },
+  "keywords": [
+    "angular",
+    "types",
+    "utility",
+    "types",
+    "interface",
+    "typed",
+    "forms"
+  ],
+  "author": "Timothy Gillespie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juriskop/ngx-typed-forms/issues"
+  },
+  "homepage": "https://github.com/Juriskop/ngx-typed-forms#readme",
+  "peerDependencies": {
+    "@angular/forms": "^16.1.0"
+  }
+}
